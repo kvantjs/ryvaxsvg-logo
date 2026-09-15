@@ -324,3 +324,5 @@ If you are a brand owner and would like an icon updated or removed, please [open
   <a href="https://thesvg.org">thesvg.org</a> &nbsp;&bull;&nbsp;
   <a href="https://github.com/glincker/thesvg/issues">Issues</a>
 </p>
+
+[![](https://data.jsdelivr.com/v1/package/npm/@kvantjs/ryvax.js/badge)](https://www.jsdelivr.com/package/npm/@kvantjs/ryvax.js)
